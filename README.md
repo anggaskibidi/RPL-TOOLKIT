@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Authors
 
-Developed by 10 RPL 1 students as an ongoing learning project.
+Developed by 10 RPL students as an ongoing learning project.
 
 More information about the contributors can be found in the repository history.
