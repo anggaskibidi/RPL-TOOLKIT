@@ -75,6 +75,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 Developed by 10 RPL students as an ongoing learning project. 
 
-More information about the contributors can be found in the repository history.
+More information about the contributors can be found in the repository history..
 
 #SMKN1SUDIMOROHEBAT
